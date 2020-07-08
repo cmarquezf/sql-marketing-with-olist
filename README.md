@@ -140,6 +140,7 @@ GROUP BY s.seller_id ORDER BY seller_revenue DESC
 ```
 
 seller_id |	seller_city |	seller_state |	seller_revenue
+--------- |------------ | ------------ | ---------------
 7c67e1448b00f6e969d365cea6b010ab |	itaquaquecetuba |	SP |	507166.91
 1025f0e2d44d7041d6cf58b6550e0bfa |	sao paulo |	SP |	308222.04
 4a3ca9315b744ce9f8e9374361493884 |	ibitinga |	SP |	301245.27
